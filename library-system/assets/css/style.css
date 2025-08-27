@@ -1,0 +1,19 @@
+
+/* Custom styles */
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Add more custom styles as needed, e.g., for sidebar or navbar */
+.sidebar {
+    background-color: #198754;
+    color: white;
+    height: 100vh;
+    padding: 20px;
+}
+
+@media (max-width: 768px) {
+    .sidebar {
+        height: auto;
+    }
+}/* Custom CSS styles for Library Management System */
